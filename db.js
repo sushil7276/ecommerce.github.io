@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const mongoURL = "mongodb://127.0.0.1:27017/e_commerce"
+const mongoURL = "mongodb://3.86.214.84:27017/e_commerce"
 
 // Connect to mongo
 mongoose.set("strictQuery", false);
